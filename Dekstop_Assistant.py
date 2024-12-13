@@ -32,6 +32,8 @@ def open_application(app_name):
             os.system("notepad")
         elif "calculator" in app_name:
             os.system("calc")
+        elif "calender" in app_name:
+            os.system("calender")
         elif "chrome" in app_name:
             # Open Google Chrome
             webbrowser.open("https://www.google.com/chrome/")
