@@ -13,7 +13,7 @@ Speech-to-Text Conversion: Convert spoken words into text for further processing
 Installation
 
 1.Clone the repository:
- git clone https://github.com/pratibha416/Dekstop_Assistant.git
+ git clone https://github.com/pratibha416/DekstopAssistant.git
 
 2.Install the required dependencies:
  pip install SpeechRecognition
